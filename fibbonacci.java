@@ -1,6 +1,6 @@
 public class fibbonacci {
     public static void main(String[] args) {
-        System.out.println(fibbonacci(5));
+        System.out.println(fibbonacciNumber(5)));
         int n=5;
         int n1=0;
     int n2=1;
@@ -24,9 +24,19 @@ public class fibbonacci {
 
 }
 
-public static int fibbonacciNumber(int n){    if(n==0){
+public static int fibbonacciNumber(int n){
+    if(n==0){
         return 0;
 
 
     }
     else if(n==1){
+        return 1;
+    }
+    else{
+        fibbonacciNumber(n-1)+fibbonacciNumber(n-2);
+    }
+}
+
+            
+}

@@ -1,6 +1,6 @@
 public class palindromeNumber {
     public static void main(String[] args) {
-        int x = 123454321; 
+        int x = 12345; 
         int remainder,sum=0,temp;
         temp=x;
         while(x>0){
@@ -13,8 +13,6 @@ public class palindromeNumber {
         }
         else{
             System.out.println("The Number is not a Palindrome");
-            System.out.println(sum);
-
-        }
         }
     }
+}
