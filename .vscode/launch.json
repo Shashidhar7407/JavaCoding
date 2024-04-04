@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BasicString",
+            "request": "launch",
+            "mainClass": "BasicString",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "MissingNumber",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "cycleSort",
+            "request": "launch",
+            "mainClass": "cycleSort",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "ex",
+            "request": "launch",
+            "mainClass": "ex",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "fibbonacci",
+            "request": "launch",
+            "mainClass": "fibbonacci",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "findDuplicate",
+            "request": "launch",
+            "mainClass": "findDuplicate",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "findallDuplicates",
+            "request": "launch",
+            "mainClass": "findallDuplicates",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "maxArray",
+            "request": "launch",
+            "mainClass": "maxArray",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "missingNumbers",
+            "request": "launch",
+            "mainClass": "missingNumbers",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "palindromeNumber",
+            "request": "launch",
+            "mainClass": "palindromeNumber",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "BasicPattern",
+            "request": "launch",
+            "mainClass": "patterns.BasicPattern",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "performance",
+            "request": "launch",
+            "mainClass": "performance",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "prettyPrinting",
+            "request": "launch",
+            "mainClass": "prettyPrinting",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "primeNumber",
+            "request": "launch",
+            "mainClass": "primeNumber",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "BasicRecusrion",
+            "request": "launch",
+            "mainClass": "recursion.BasicRecusrion",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "NUmberiinRecursion",
+            "request": "launch",
+            "mainClass": "recursion.NUmberiinRecursion",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "binarySearchRe",
+            "request": "launch",
+            "mainClass": "recursion.binarySearchRe",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "fibbonacci(1)",
+            "request": "launch",
+            "mainClass": "recursion.fibbonacci",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "number",
+            "request": "launch",
+            "mainClass": "recursion.number",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "reverseNumber",
+            "request": "launch",
+            "mainClass": "reverseNumber",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "reverseString",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        },
+        {
+            "type": "java",
+            "name": "stringBuilderDemo",
+            "request": "launch",
+            "mainClass": "stringBuilderDemo",
+            "projectName": "interviewCodingQuestions_fce8ff53"
+        }
+    ]
+}
