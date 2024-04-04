@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinandMaxinArray",
+      "request": "launch",
+      "mainClass": "recursion.MinandMaxinArray",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "sumTriangle",
       "request": "launch",
       "mainClass": "recursion.sumTriangle",
