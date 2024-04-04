@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "geeknoacci",
+      "request": "launch",
+      "mainClass": "recursion.geeknoacci",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "onetoNwithoutlop",
+      "request": "launch",
+      "mainClass": "recursion.onetoNwithoutlop",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "charUpperinString",
+      "request": "launch",
+      "mainClass": "recursion.charUpperinString",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "reverseString",
+      "request": "launch",
+      "mainClass": "recursion.reverseString",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "recursiveBinarySearch",
+      "request": "launch",
+      "mainClass": "recursion.recursiveBinarySearch",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "MinandMaxinArray",
       "request": "launch",
       "mainClass": "recursion.MinandMaxinArray",

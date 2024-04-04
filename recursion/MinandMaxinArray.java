@@ -13,7 +13,6 @@ public class MinandMaxinArray {
 
         }
         return Math.min(arr[n - 1], getmininArray(arr, n - 1)); // recursion call for min here we are executing the code
-                                                                // and getting the min valee
     }
 
     static int getmaxinArray(int[] arr, int n) {
