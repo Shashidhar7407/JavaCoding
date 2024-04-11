@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "removeDuplicatesinString",
+      "request": "launch",
+      "mainClass": "removeDuplicatesinString",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "checkArraySorted",
+      "request": "launch",
+      "mainClass": "checkArraySorted",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "sumofindividual",
       "request": "launch",
       "mainClass": "sumofindividual",
