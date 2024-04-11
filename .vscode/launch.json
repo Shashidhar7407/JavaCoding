@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sumofindividual",
+      "request": "launch",
+      "mainClass": "sumofindividual",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "bubbleSort",
       "request": "launch",
       "mainClass": "bubbleSort",
