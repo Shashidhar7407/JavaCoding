@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "bubbleSort",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "geeknoacci",
       "request": "launch",
       "mainClass": "recursion.geeknoacci",
