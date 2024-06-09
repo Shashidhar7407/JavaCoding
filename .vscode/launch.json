@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "recursion.Palindrome",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_Number_Method2",
+      "request": "launch",
+      "mainClass": "recursion.Reverse_Number_Method2",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_Number",
+      "request": "launch",
+      "mainClass": "recursion.Reverse_Number",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "Digit_Product",
+      "request": "launch",
+      "mainClass": "recursion.Digit_Product",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "recursion.factorial",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "sumofindividual",
+      "request": "launch",
+      "mainClass": "recursion.sumofindividual",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "bubbleSort",
       "request": "launch",
       "mainClass": "recursion.bubbleSort",
