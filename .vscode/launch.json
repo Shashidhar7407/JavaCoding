@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "recursion.bubbleSort",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "Arr",
+      "request": "launch",
+      "mainClass": "bitwise.Arr",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "Bitwise",
+      "request": "launch",
+      "mainClass": "bitwise.Bitwise",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "fact",
+      "request": "launch",
+      "mainClass": "fact",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "recursion",
+      "request": "launch",
+      "mainClass": "recursion",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "goodNumber",
+      "request": "launch",
+      "mainClass": "goodNumber",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "recursion",
       "request": "launch",
       "mainClass": "TimeandSpaceComplexity.recursion",
