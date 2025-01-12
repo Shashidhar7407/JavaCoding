@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "randomStringChange",
+      "request": "launch",
+      "mainClass": "randomStringChange",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "OddEvenPositionsChange",
+      "request": "launch",
+      "mainClass": "OddEvenPositionsChange",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "ZerosToEnd",
+      "request": "launch",
+      "mainClass": "ZerosToEnd",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "frequncyCount",
+      "request": "launch",
+      "mainClass": "frequncyCount",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "BasicArrayList",
+      "request": "launch",
+      "mainClass": "ArrayList.BasicArrayList",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "transposeMatrix",
+      "request": "launch",
+      "mainClass": "Arrays.transposeMatrix",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "HollowInvertedPyramid",
+      "request": "launch",
+      "mainClass": "Patterns.HollowInvertedPyramid",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "hallowINvertedPyramid",
+      "request": "launch",
+      "mainClass": "Patterns.hallowINvertedPyramid",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "HollowHalf",
+      "request": "launch",
+      "mainClass": "Patterns.HollowHalf",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "RectangularPattern",
+      "request": "launch",
+      "mainClass": "Patterns.RectangularPattern",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "SquarePattern",
+      "request": "launch",
+      "mainClass": "Patterns.SquarePattern",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "LinearSearch",
       "request": "launch",
       "mainClass": "recursionArrays.LinearSearch",
