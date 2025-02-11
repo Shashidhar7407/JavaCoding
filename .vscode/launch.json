@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "frequncyCount",
+      "request": "launch",
+      "mainClass": "ArrayList.frequncyCount",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "acronyms",
+      "request": "launch",
+      "mainClass": "acronyms",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
+      "name": "duplicate",
+      "request": "launch",
+      "mainClass": "duplicate",
+      "projectName": "interviewCodingQuestions_fce8ff53"
+    },
+    {
+      "type": "java",
       "name": "randomStringChange",
       "request": "launch",
       "mainClass": "randomStringChange",

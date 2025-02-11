@@ -1,45 +1,22 @@
-import java.util.List;
+import java.util.*;
 
-/**
- * findallDuplicates
- */
-public class findallDuplicates {
+public class FindAllDuplicates {
 
-    public static List<Integer> findtheDuplicate(int[] nums){
-        int i=0;
-        while(i<nums.length){
-            if(nums[i]!=i+1){
-                int correct = nums[i]-1;
-                if(nums[i]<nums.length && nums[i]!=nums[correct]){
-                    swapNumber(nums,i,correct);
+    public static List<Integer> findDuplicates(int[] nums) {
+        List<Integer> duplicates = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
+            int index = Math.abs(nums[i]) - 1;
+            if (nums[index] < 0) {
+                duplicates.add(Math.abs(nums[i]));
             }
-            else{
-                i++;
-            }
+            nums[index] = -nums[index];
         }
-    }
-
-    
-    List<Integer> answer = new ArrayList<>();
-    for(int index=0; index<nums.length; index++){
-        if(nums[index]!=index+1){
-            answer.add(nums[index]);
-        }
-        }
-    }
-
-
-    public static void swapNumber(int[] arr,int i,int correct){
-        int temp=arr[i];
-        arr[i]=arr[correct];
-        arr[correct]=temp;
+        return duplicates;
     }
 
     public static void main(String[] args) {
-        int[] nums={8,6,7,3,2,2,1,1,5};
-        findtheDuplicate(nums);
-        
-        
-
+        int[] nums = { 8, 6, 7, 3, 2, 2, 1, 1, 5 };
+        List<Integer> duplicates = findDuplicates(nums);
+        System.out.println("Duplicates: " + duplicates);
     }
 }
